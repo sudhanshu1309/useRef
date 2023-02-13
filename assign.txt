@@ -1,0 +1,2 @@
+The bolerplate folder contains the cypress folder. In cypress folder there is e2e folder having file spec.cy.js
+Change the expected value from 4 to 0 to make the test pass.
